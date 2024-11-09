@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husnaindatasci
+- 👋 Hi, I’m @Husnain Anari
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m in learning process of python.
